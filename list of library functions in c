@@ -1,0 +1,6 @@
+printf() is output to the screen.
+scanf() is read input from the screen.
+getchar() is return characters typed on screen.
+putchar() is output a single character to the screen.
+fopen() is open a file, and.
+fclose() is close a file.
